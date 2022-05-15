@@ -1,0 +1,18 @@
+.elm1{
+  text-align: center;
+}
+.productName{
+  width: 460px;
+}
+.price{
+  width: 460px;
+}
+.imageContainer{
+  height: 460px;
+  width: 460px;
+}
+
+.productImage{
+  height: 100%;
+  width: 100%;
+}
